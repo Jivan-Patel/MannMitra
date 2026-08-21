@@ -1,0 +1,2255 @@
+{
+  "moods": {
+    "anxious": {
+      "id": "anxious",
+      "label": "Feeling Anxious",
+      "description": "Take a moment to slow down and breathe.",
+      "startHere": {
+        "title": "Take One Slow Minute",
+        "description": "Pause and notice your breathing without trying to fix anything.",
+        "instruction": "Inhale slowly for 4 seconds, hold gently for 4 seconds, exhale slowly for 4 seconds. Repeat for one minute.",
+        "duration": "1 minute",
+        "actionType": "pause"
+      },
+      "content": {
+        "yoga": [
+          {
+            "id": "anxious-yoga-1",
+            "type": "yoga",
+            "title": "Yoga For Anxiety and Stress",
+            "description": "A gentle 28-minute physical practice focused on breath and spinal movement to help release physical tension.",
+            "whyRecommended": "Mindful movement paired with deep breathing may help ease bodily tightness associated with stress.",
+            "effort": "low",
+            "duration": "28 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=hJbRpHZr_d0",
+            "verificationSource": "https://www.youtube.com/watch?v=hJbRpHZr_d0",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "gentle",
+              "movement",
+              "breathing"
+            ]
+          },
+          {
+            "id": "anxious-yoga-2",
+            "type": "yoga",
+            "title": "Full Body Flow | 20-Minute Gentle Practice",
+            "description": "A grounded 20-minute practice incorporating sensory awareness and soft stretching.",
+            "whyRecommended": "Short grounded poses encourage staying present when overwhelming thoughts arise.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=b1H3xO3x_Js",
+            "verificationSource": "https://www.youtube.com/watch?v=b1H3xO3x_Js",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "grounding",
+              "short",
+              "gentle"
+            ]
+          },
+          {
+            "id": "anxious-yoga-3",
+            "type": "yoga",
+            "title": "20 min Full Body Stretch & Yoga for Stress & Anxiety",
+            "description": "A supportive session designed to cultivate inner comfort and steady posture.",
+            "whyRecommended": "May help release upper body tightness and encourage an open, relaxed posture.",
+            "effort": "low",
+            "duration": "30 min",
+            "source": "YouTube (MadFit)",
+            "url": "https://www.youtube.com/watch?v=sTANio_2E0Q",
+            "verificationSource": "https://www.youtube.com/watch?v=sTANio_2E0Q",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "posture",
+              "calm",
+              "self-compassion"
+            ]
+          },
+          {
+            "id": "anxious-yoga-4",
+            "type": "yoga",
+            "title": "5-Minute Guided Meditation for Anxiety & Calm",
+            "description": "A seated quiet meditation emphasizing observation of breath without judgment.",
+            "whyRecommended": "Offers a guided pause when physical movement feels too demanding.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Goodful)",
+            "url": "https://www.youtube.com/watch?v=inpok4MKVLM",
+            "verificationSource": "https://www.youtube.com/watch?v=inpok4MKVLM",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "meditation",
+              "seated",
+              "breath-focus"
+            ]
+          }
+        ],
+        "books": [
+          {
+            "id": "anxious-books-1",
+            "type": "books",
+            "title": "The Comfort Book",
+            "author": "Matt Haig",
+            "description": "A collection of short, gentle reflections and reminders of hope.",
+            "whyRecommended": "Bite-sized chapters mean you can read a single page without needing sustained focus.",
+            "effort": "low",
+            "url": "https://www.matthaig.com/books/the-comfort-book/",
+            "verificationSource": "https://www.matthaig.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "reflections",
+              "comfort",
+              "reassurance"
+            ]
+          },
+          {
+            "id": "anxious-books-2",
+            "type": "books",
+            "title": "First, We Make the Beast Beautiful",
+            "author": "Sarah Wilson",
+            "description": "A personal and compassionate exploration of living alongside anxiety.",
+            "whyRecommended": "Offers an empathetic narrative that reframes anxious feelings with self-compassion.",
+            "effort": "low",
+            "url": "https://www.sarahwilson.com",
+            "verificationSource": "https://www.sarahwilson.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "memoir",
+              "empathy",
+              "perspective"
+            ]
+          },
+          {
+            "id": "anxious-books-3",
+            "type": "books",
+            "title": "Peace Is Every Step",
+            "author": "Thich Nhat Hanh",
+            "description": "Mindfulness practices for bringing calm and awareness into daily moments.",
+            "whyRecommended": "Provides simple grounding exercises applicable to sitting, walking, or resting.",
+            "effort": "low",
+            "url": "https://plumvillage.org/books/peace-is-every-step",
+            "verificationSource": "https://plumvillage.org",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "mindfulness",
+              "peace",
+              "daily-life"
+            ]
+          },
+          {
+            "id": "anxious-books-4",
+            "type": "books",
+            "title": "Rewire Your Anxious Brain",
+            "author": "Catherine M. Pittman & Elizabeth M. Karle",
+            "description": "An accessible guide explaining how stress responses function in the brain.",
+            "whyRecommended": "Offers clear, accessible insights into how the body experiences stress.",
+            "effort": "medium",
+            "url": "https://www.newharbinger.com/9781626251137/rewire-your-anxious-brain/",
+            "verificationSource": "https://www.newharbinger.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "neuroscience",
+              "understanding",
+              "practical"
+            ]
+          }
+        ],
+        "music": [
+          {
+            "id": "anxious-music-1",
+            "type": "music",
+            "title": "Marconi Union - Weightless (Official Soundscape)",
+            "description": "An ambient musical arrangement crafted with soothing rhythms and harmonic tones.",
+            "whyRecommended": "A slow tempo arrangement that may help support a relaxing atmosphere.",
+            "effort": "low",
+            "duration": "8 min",
+            "source": "YouTube (JustMusicTV)",
+            "url": "https://www.youtube.com/watch?v=UfcAVejslrU",
+            "verificationSource": "https://www.youtube.com/watch?v=UfcAVejslrU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "ambient",
+              "instrumental",
+              "calm"
+            ]
+          },
+          {
+            "id": "anxious-music-2",
+            "type": "music",
+            "title": "Lofi Girl - Beats to Relax/Study to",
+            "description": "Continuous chill lofi hip-hop beats with quiet background soundscapes.",
+            "whyRecommended": "Provides gentle background audio that offers light focus without intrusive lyrics.",
+            "effort": "low",
+            "duration": "Live Radio",
+            "source": "YouTube (Lofi Girl)",
+            "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+            "verificationSource": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "lofi",
+              "background",
+              "chill"
+            ]
+          },
+          {
+            "id": "anxious-music-3",
+            "type": "music",
+            "title": "Ludovico Einaudi - Primavera Piano Soundscape",
+            "description": "A peaceful and expressive solo piano composition.",
+            "whyRecommended": "Flowing piano melodies can offer a comforting emotional outlet during stressful moments.",
+            "effort": "low",
+            "duration": "6 min",
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=qmxFAT581T4",
+            "verificationSource": "https://www.youtube.com/watch?v=qmxFAT581T4",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "piano",
+              "classical",
+              "peaceful"
+            ]
+          },
+          {
+            "id": "anxious-music-4",
+            "type": "music",
+            "title": "Yiruma - River Flows in You",
+            "description": "A gentle and melodic contemporary piano piece.",
+            "whyRecommended": "Can offer a tranquil background soundscape to help you pause.",
+            "effort": "low",
+            "duration": "3 min",
+            "source": "YouTube (YirumaVEVO)",
+            "url": "https://www.youtube.com/watch?v=7maJOI3QMu0",
+            "verificationSource": "https://www.youtube.com/watch?v=7maJOI3QMu0",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "piano",
+              "gentle",
+              "soft"
+            ]
+          }
+        ],
+        "spiritual": [
+          {
+            "id": "anxious-spiritual-1",
+            "type": "spiritual",
+            "title": "Detached Observation",
+            "text": "You do not have to control your thoughts. You just have to stop letting them control you.",
+            "source": "Dan Millman (Way of the Peaceful Warrior)",
+            "contentKind": "quote",
+            "description": "A mindful reminder on stepping back from racing thoughts.",
+            "whyRecommended": "Encourages viewing anxious thoughts as temporary mental events rather than facts.",
+            "effort": "low",
+            "tags": [
+              "perspective",
+              "thoughts",
+              "awareness"
+            ]
+          },
+          {
+            "id": "anxious-spiritual-2",
+            "type": "spiritual",
+            "title": "The Breath as an Anchor",
+            "text": "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.",
+            "source": "Thich Nhat Hanh (Peace Is Every Step)",
+            "contentKind": "quote",
+            "description": "A quiet observation on returning to simple breath awareness.",
+            "whyRecommended": "Reminds you that emotions naturally shift over time like passing weather.",
+            "effort": "low",
+            "tags": [
+              "breath",
+              "anchor",
+              "nature"
+            ]
+          },
+          {
+            "id": "anxious-spiritual-3",
+            "type": "spiritual",
+            "title": "A Gentle Pause",
+            "text": "Breathe gently and allow this moment to be just as it is, without needing to rush or fix anything.",
+            "source": "MannMitra reflection",
+            "contentKind": "original_reflection",
+            "description": "A comforting reminder to release pressure in the present moment.",
+            "whyRecommended": "Eases the feeling of urgency that often accompanies anxious moments.",
+            "effort": "low",
+            "tags": [
+              "patience",
+              "simplicity",
+              "peace"
+            ]
+          },
+          {
+            "id": "anxious-spiritual-4",
+            "type": "spiritual",
+            "title": "Philosophical Perspective",
+            "text": "Nothing in the affairs of men is worthy of great anxiety.",
+            "source": "Plato (The Republic, Book X)",
+            "contentKind": "quote",
+            "description": "An ancient reflection on keeping daily worries in perspective.",
+            "whyRecommended": "Offers a wider perspective when immediate concerns feel overwhelming.",
+            "effort": "low",
+            "tags": [
+              "philosophy",
+              "perspective",
+              "wisdom"
+            ]
+          }
+        ],
+        "humor": [
+          {
+            "id": "anxious-humor-1",
+            "type": "humor",
+            "title": "Zakir Khan | Kaksha Gyarvi & Overthinking School Life",
+            "description": "Zakir Khan shares nostalgic, laugh-out-loud stories about teenage overthinking and growing up.",
+            "whyRecommended": "Lighthearted, grounded storytelling that helps calm racing thoughts through shared laughter.",
+            "effort": "low",
+            "duration": "14 min",
+            "source": "YouTube (Zakir Khan)",
+            "url": "https://www.youtube.com/watch?v=Tqsz6FJeyCA",
+            "verificationSource": "https://www.youtube.com/watch?v=Tqsz6FJeyCA",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "zakir-khan",
+              "standup",
+              "nostalgia",
+              "calming"
+            ]
+          },
+          {
+            "id": "anxious-humor-2",
+            "type": "humor",
+            "title": "Rahul Subramanian | Crowd Work & Relaxed Banter",
+            "description": "Hilarious, impromptu crowd interactions and lighthearted banter with spontaneous punchlines.",
+            "whyRecommended": "Wholesome, unscripted humor that easily distracts from tense moments.",
+            "effort": "low",
+            "duration": "11 min",
+            "source": "YouTube (Rahul Subramanian)",
+            "url": "https://www.youtube.com/watch?v=zptXk_GvY_E",
+            "verificationSource": "https://www.youtube.com/watch?v=zptXk_GvY_E",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "rahul-subramanian",
+              "crowd-work",
+              "spontaneous",
+              "lighthearted"
+            ]
+          },
+          {
+            "id": "anxious-humor-3",
+            "type": "humor",
+            "title": "Samay Raina | Relatable Everyday Observations & Banter",
+            "description": "Samay Raina delivers quick-witted punchlines about modern life, awkward moments, and games.",
+            "whyRecommended": "Fast-paced, witty humor that quickly breaks anxious feedback loops.",
+            "effort": "low",
+            "duration": "12 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=J38ZBIvLank",
+            "verificationSource": "https://www.youtube.com/watch?v=J38ZBIvLank",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "standup",
+              "quick-wit",
+              "relatable"
+            ]
+          },
+          {
+            "id": "anxious-humor-4",
+            "type": "humor",
+            "title": "Biswa Kalyan Rath | Introverts, Gym & Everyday Chaos",
+            "description": "Biswas high-energy deconstruction of everyday social awkwardness and gym struggles.",
+            "whyRecommended": "Relatable absurdity that normalizes nervous habits and brings instant laughs.",
+            "effort": "low",
+            "duration": "9 min",
+            "source": "YouTube (Biswa Kalyan Rath)",
+            "url": "https://www.youtube.com/watch?v=34dCjGk5hI4",
+            "verificationSource": "https://www.youtube.com/watch?v=34dCjGk5hI4",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "biswa",
+              "standup",
+              "introvert",
+              "funny"
+            ]
+          }
+        ]
+      }
+    },
+    "low": {
+      "id": "low",
+      "label": "Feeling Low",
+      "description": "Gentle warmth and comforting thoughts.",
+      "startHere": {
+        "title": "A Moment of Gentle Warmth",
+        "description": "Sit comfortably, wrap your arms around yourself or hold a warm cup, and take three slow, easy breaths.",
+        "instruction": "Breathe in softly for 4 seconds, hold for 2 seconds, and release with a gentle sigh for 5 seconds. Repeat 3 times.",
+        "duration": "1 minute",
+        "actionType": "grounding"
+      },
+      "content": {
+        "yoga": [
+          {
+            "id": "low-yoga-1",
+            "type": "yoga",
+            "title": "30 Minute Relaxing Yoga For Mental Health",
+            "description": "A calming seated practice designed to offer space and warmth on heavy days.",
+            "whyRecommended": "Soft movement can provide a gentle energy lift when feeling depleted.",
+            "effort": "low",
+            "duration": "20 min",
+            "source": "YouTube (Jess Yoga)",
+            "url": "https://www.youtube.com/watch?v=COp7BR_Dvps",
+            "verificationSource": "https://www.youtube.com/watch?v=COp7BR_Dvps",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "restorative",
+              "gentle",
+              "comfort"
+            ]
+          },
+          {
+            "id": "low-yoga-2",
+            "type": "yoga",
+            "title": "Yoga For Complete Beginners - 20 Minute Home Flow",
+            "description": "A soft and approachable floor-based practice focusing on slow breathing.",
+            "whyRecommended": "Floor poses require minimal effort while offering gentle physical comfort.",
+            "effort": "low",
+            "duration": "20 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=v7AYKMP6rOE",
+            "verificationSource": "https://www.youtube.com/watch?v=v7AYKMP6rOE",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "floor",
+              "restful",
+              "slow"
+            ]
+          },
+          {
+            "id": "low-yoga-3",
+            "type": "yoga",
+            "title": "Wake Up Yoga | 11-Minute Gentle Practice",
+            "description": "A light sequence designed to gently awaken the body without strenuous exertion.",
+            "whyRecommended": "Provides a non-judgmental physical space to move through low emotional states.",
+            "effort": "low",
+            "duration": "25 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=UEEsdXn8oG8",
+            "verificationSource": "https://www.youtube.com/watch?v=UEEsdXn8oG8",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "mood-reset",
+              "emotional-release",
+              "gentle"
+            ]
+          },
+          {
+            "id": "low-yoga-4",
+            "type": "yoga",
+            "title": "Rainbow Yoga | 17-Minute Uplifting Practice",
+            "description": "An uplifting, colorful session to bring soft movement and positive energy.",
+            "whyRecommended": "Encourages a soft pace without pushing beyond your current energy levels.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=dF7O6-QabIo",
+            "verificationSource": "https://www.youtube.com/watch?v=dF7O6-QabIo",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "self-kindness",
+              "gentle",
+              "short"
+            ]
+          }
+        ],
+        "books": [
+          {
+            "id": "low-books-1",
+            "type": "books",
+            "title": "Reasons to Stay Alive",
+            "author": "Matt Haig",
+            "description": "An honest memoir exploring joy, recovery, and finding light in dark times.",
+            "whyRecommended": "Offers a deeply relatable reflection that validates low moments with hope.",
+            "effort": "low",
+            "url": "https://www.matthaig.com/books/reasons-to-stay-alive/",
+            "verificationSource": "https://www.matthaig.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "memoir",
+              "hope",
+              "recovery"
+            ]
+          },
+          {
+            "id": "low-books-2",
+            "type": "books",
+            "title": "Tiny Beautiful Things",
+            "author": "Cheryl Strayed",
+            "description": "A collection of empathetic advice letters on love, loss, and resilience.",
+            "whyRecommended": "Provides rich wisdom and compassion for moments when you feel isolated.",
+            "effort": "low",
+            "url": "https://www.harpercollins.com",
+            "verificationSource": "https://www.cherylstrayed.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "compassion",
+              "advice",
+              "humanity"
+            ]
+          },
+          {
+            "id": "low-books-3",
+            "type": "books",
+            "title": "The Boy, the Mole, the Fox and the Horse",
+            "author": "Charlie Mackesy",
+            "description": "An illustrated story offering quiet reflections on vulnerability and kindness.",
+            "whyRecommended": "Simple illustrations and short quotes make it easy to digest when energy is low.",
+            "effort": "low",
+            "url": "https://www.charliemackesy.com",
+            "verificationSource": "https://www.charliemackesy.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "illustrated",
+              "kindness",
+              "gentle"
+            ]
+          },
+          {
+            "id": "low-books-4",
+            "type": "books",
+            "title": "When Things Fall Apart",
+            "author": "Pema Chödrön",
+            "description": "Wisdom on leaning into difficult emotions with gentle curiosity.",
+            "whyRecommended": "Teaches compassionate self-acceptance when feeling vulnerable or overwhelmed.",
+            "effort": "medium",
+            "url": "https://www.shambhala.com",
+            "verificationSource": "https://www.shambhala.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "buddhism",
+              "acceptance",
+              "wisdom"
+            ]
+          }
+        ],
+        "music": [
+          {
+            "id": "low-music-1",
+            "type": "music",
+            "title": "The Hidden Valley: Ambient Relaxing Music",
+            "description": "A comforting soundscape of warm acoustic guitar and gentle ambient strings.",
+            "whyRecommended": "Warm string tones offer a comforting backdrop to rest or read.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Soothing Relaxation)",
+            "url": "https://www.youtube.com/watch?v=2OEL4P1Rz04",
+            "verificationSource": "https://www.youtube.com/watch?v=2OEL4P1Rz04",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "acoustic",
+              "guitar",
+              "warm"
+            ]
+          },
+          {
+            "id": "low-music-2",
+            "type": "music",
+            "title": "Morning Coffee - Gentle Lofi Beats",
+            "description": "Soft and steady lofi instrumentals providing calm company during quiet hours.",
+            "whyRecommended": "Creates a soft, embracing audio environment when feeling down.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Lofi Girl)",
+            "url": "https://www.youtube.com/watch?v=1fueZCTYkpA",
+            "verificationSource": "https://www.youtube.com/watch?v=1fueZCTYkpA",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "piano",
+              "strings",
+              "ambient"
+            ]
+          },
+          {
+            "id": "low-music-3",
+            "type": "music",
+            "title": "Classical Music for Calming & Reading",
+            "description": "A gentle blend of classic string and piano movements.",
+            "whyRecommended": "Expressive cello and violin melodies provide an authentic space for quiet emotion.",
+            "effort": "low",
+            "duration": "6 min",
+            "source": "YouTube (HALIDONMUSIC)",
+            "url": "https://www.youtube.com/watch?v=mIYzp5rcTvU",
+            "verificationSource": "https://www.youtube.com/watch?v=mIYzp5rcTvU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "strings",
+              "classical",
+              "introspective"
+            ]
+          },
+          {
+            "id": "low-music-4",
+            "type": "music",
+            "title": "Sunny Mornings: Relaxing Piano & Guitar",
+            "description": "Melodic acoustic instrumentals that bring a subtle sense of sunrise warmth.",
+            "whyRecommended": "Soft vocals and gentle instrumentation bring a cozy, comforting feel.",
+            "effort": "low",
+            "duration": "3 min",
+            "source": "YouTube (Soothing Relaxation)",
+            "url": "https://www.youtube.com/watch?v=hlWiI4xVXKY",
+            "verificationSource": "https://www.youtube.com/watch?v=hlWiI4xVXKY",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "vocal",
+              "jazz",
+              "cozy"
+            ]
+          }
+        ],
+        "spiritual": [
+          {
+            "id": "low-spiritual-1",
+            "type": "spiritual",
+            "title": "Gentle Compassion",
+            "text": "You have been criticizing yourself for years, and it hasn't worked. Try approving of yourself and see what happens.",
+            "source": "Louise Hay (You Can Heal Your Life)",
+            "contentKind": "quote",
+            "description": "A gentle invitation to replace harsh internal criticism with self-kindness.",
+            "whyRecommended": "Encourages a shift toward gentle self-approval when feeling low.",
+            "effort": "low",
+            "tags": [
+              "self-love",
+              "kindness",
+              "affirmation"
+            ]
+          },
+          {
+            "id": "low-spiritual-2",
+            "type": "spiritual",
+            "title": "Small Steps of Light",
+            "text": "Even the darkest night will end and the sun will rise.",
+            "source": "Victor Hugo (Les Misérables)",
+            "contentKind": "quote",
+            "description": "A timeless reflection on the natural cyclical return of hope.",
+            "whyRecommended": "Reminds you that difficult feelings are part of a passing cycle.",
+            "effort": "low",
+            "tags": [
+              "hope",
+              "light",
+              "patience"
+            ]
+          },
+          {
+            "id": "low-spiritual-3",
+            "type": "spiritual",
+            "title": "Permission to Rest",
+            "text": "Give yourself permission to move slowly today. Healing doesn't require speed, only gentle presence.",
+            "source": "MannMitra reflection",
+            "contentKind": "original_reflection",
+            "description": "A comforting reminder to lower expectations and allow quiet rest.",
+            "whyRecommended": "Relieves the pressure to feel okay immediately.",
+            "effort": "low",
+            "tags": [
+              "rest",
+              "permission",
+              "gentle"
+            ]
+          },
+          {
+            "id": "low-spiritual-4",
+            "type": "spiritual",
+            "title": "Inner Warmth",
+            "text": "Peace comes from within. Do not seek it without.",
+            "source": "Buddha (Dhammapada)",
+            "contentKind": "quote",
+            "description": "A quiet reminder that gentle calm resides inside you.",
+            "whyRecommended": "Points toward quiet self-reliance during low moments.",
+            "effort": "low",
+            "tags": [
+              "peace",
+              "wisdom",
+              "stillness"
+            ]
+          }
+        ],
+        "humor": [
+          {
+            "id": "low-humor-latent-1",
+            "type": "humor",
+            "title": "Samay Raina | India's Got Latent — Wholesome & Funny Auditions",
+            "description": "The most hilarious and unexpectedly wholesome auditions on India's Got Latent.",
+            "whyRecommended": "High-energy laughs and spontaneous moments that lift your spirits.",
+            "effort": "low",
+            "duration": "22 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=8b2r6QYjF1k",
+            "verificationSource": "https://www.youtube.com/watch?v=8b2r6QYjF1k",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "latent",
+              "comedy-show",
+              "viral"
+            ]
+          },
+          {
+            "id": "low-humor-1",
+            "type": "humor",
+            "title": "Anubhav Singh Bassi | Cheating & College Days",
+            "description": "Bassis legendary, heartwarming storytelling about college friendships, exams, and mischief.",
+            "whyRecommended": "Infectious storytelling and pure warmth to lift a heavy mood.",
+            "effort": "low",
+            "duration": "18 min",
+            "source": "YouTube (Anubhav Singh Bassi)",
+            "url": "https://www.youtube.com/watch?v=FF_zB_0-B1Y",
+            "verificationSource": "https://www.youtube.com/watch?v=FF_zB_0-B1Y",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "bassi",
+              "college",
+              "storytelling",
+              "uplifting"
+            ]
+          },
+          {
+            "id": "low-humor-2",
+            "type": "humor",
+            "title": "Zakir Khan | Haq Se Single — Bus Safar & Small Joys",
+            "description": "Zakirs iconic bit on finding humor and self-worth in lifes simple, awkward moments.",
+            "whyRecommended": "Deeply comforting humor that reminds you that you are enough.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Zakir Khan)",
+            "url": "https://www.youtube.com/watch?v=2r1o5bNqQeo",
+            "verificationSource": "https://www.youtube.com/watch?v=2r1o5bNqQeo",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "zakir-khan",
+              "haq-se-single",
+              "comforting",
+              "relatable"
+            ]
+          },
+          {
+            "id": "low-humor-3",
+            "type": "humor",
+            "title": "Munawar Faruqui | Doctor & Hospital Visits",
+            "description": "Munawars sharp, funny takes on visiting clinics, medical advice, and family reactions.",
+            "whyRecommended": "Lighthearted comedy that brings gentle smiles and brightens a low day.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Munawar Faruqui)",
+            "url": "https://www.youtube.com/watch?v=8kYg7-w7Y8k",
+            "verificationSource": "https://www.youtube.com/watch?v=8kYg7-w7Y8k",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "munawar",
+              "standup",
+              "doctor",
+              "humor"
+            ]
+          },
+          {
+            "id": "low-humor-4",
+            "type": "humor",
+            "title": "Harsh Gujral | Indian Weddings & Family Relatability",
+            "description": "Harsh Gujrals hilarious breakdown of big Indian weddings, relatives, and festive chaos.",
+            "whyRecommended": "Lively, vibrant energy that helps lift low spirits.",
+            "effort": "low",
+            "duration": "12 min",
+            "source": "YouTube (Harsh Gujral)",
+            "url": "https://www.youtube.com/watch?v=5Uf3sYg9j2k",
+            "verificationSource": "https://www.youtube.com/watch?v=5Uf3sYg9j2k",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "harsh-gujral",
+              "weddings",
+              "family",
+              "energy"
+            ]
+          }
+        ]
+      }
+    },
+    "stressed": {
+      "id": "stressed",
+      "label": "Feeling Stressed",
+      "description": "Release tension and find mental clarity.",
+      "startHere": {
+        "title": "The Unclench Pacing Pause",
+        "description": "Drop your shoulders away from your ears, unclench your jaw, and let your hands rest open.",
+        "instruction": "Inhale deeply into your stomach for 4 seconds, hold for 2 seconds, then exhale slowly for 6 seconds. Repeat 4 times.",
+        "duration": "1 minute",
+        "actionType": "release"
+      },
+      "content": {
+        "yoga": [
+          {
+            "id": "stressed-yoga-1",
+            "type": "yoga",
+            "title": "10 min Full Body Stretch & Tension Release",
+            "description": "A quick 10-minute gentle stretch designed to unburden tension accumulated during a busy day.",
+            "whyRecommended": "Targeted movements help release physical tightness in the neck and lower back.",
+            "effort": "low",
+            "duration": "7 min",
+            "source": "YouTube (Yoga with Kassandra)",
+            "url": "https://www.youtube.com/watch?v=4pKly2JojMw",
+            "verificationSource": "https://www.youtube.com/watch?v=4pKly2JojMw",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "quick",
+              "stretch",
+              "release"
+            ]
+          },
+          {
+            "id": "stressed-yoga-2",
+            "type": "yoga",
+            "title": "Yoga For Neck, Shoulders, Upper Back",
+            "description": "Focused movements targeting areas where stress-related tension commonly accumulates.",
+            "whyRecommended": "Physical stretching of desk-related tension can signal the body to relax.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=X3-gKPNyrTA",
+            "verificationSource": "https://www.youtube.com/watch?v=X3-gKPNyrTA",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "neck",
+              "shoulders",
+              "desk-break"
+            ]
+          },
+          {
+            "id": "stressed-yoga-3",
+            "type": "yoga",
+            "title": "10 Minute Yoga for Stress and Tension Relief",
+            "description": "A slow and deliberate sequence focusing on long, relaxed holds and deep breathing.",
+            "whyRecommended": "Longer holds encourage tight muscles to loosen at a steady pace.",
+            "effort": "low",
+            "duration": "12 min",
+            "source": "YouTube (Yoga With Bird)",
+            "url": "https://www.youtube.com/watch?v=8TuRYV71Rgo",
+            "verificationSource": "https://www.youtube.com/watch?v=8TuRYV71Rgo",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "deep-stretch",
+              "slow",
+              "relaxation"
+            ]
+          },
+          {
+            "id": "stressed-yoga-4",
+            "type": "yoga",
+            "title": "10 minute Bedtime Gentle Stretch for Relaxation",
+            "description": "A calming floor routine to help unwind tight muscles before bedtime.",
+            "whyRecommended": "Prepares the body for restful sleep by slowing down movement.",
+            "effort": "low",
+            "duration": "20 min",
+            "source": "YouTube (SarahBethYoga)",
+            "url": "https://www.youtube.com/watch?v=VaoV1PrYft4",
+            "verificationSource": "https://www.youtube.com/watch?v=VaoV1PrYft4",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "bedtime",
+              "evening",
+              "unwind"
+            ]
+          }
+        ],
+        "books": [
+          {
+            "id": "stressed-books-1",
+            "type": "books",
+            "title": "Burnout: The Secret to Unlocking the Stress Cycle",
+            "author": "Emily Nagoski & Amelia Nagoski",
+            "description": "A practical guide explaining how the body completes stress response cycles.",
+            "whyRecommended": "Helps distinguish between managing stress sources and releasing physical stress.",
+            "effort": "medium",
+            "url": "https://www.emilynagoski.com",
+            "verificationSource": "https://www.emilynagoski.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "burnout",
+              "science",
+              "practical"
+            ]
+          },
+          {
+            "id": "stressed-books-2",
+            "type": "books",
+            "title": "Essentialism: The Disciplined Pursuit of Less",
+            "author": "Greg McKeown",
+            "description": "Insights on ruthlessly cutting non-essential demands to focus on what matters.",
+            "whyRecommended": "Offers a practical framework for setting firm boundaries when feeling overwhelmed.",
+            "effort": "medium",
+            "url": "https://gregmckeown.com/books/essentialism/",
+            "verificationSource": "https://gregmckeown.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "boundaries",
+              "focus",
+              "simplicity"
+            ]
+          },
+          {
+            "id": "stressed-books-3",
+            "type": "books",
+            "title": "The Things You Can See Only When You Slow Down",
+            "author": "Haemin Sunim",
+            "description": "Short, mindful advice from a Zen Buddhist teacher on staying calm amidst chaos.",
+            "whyRecommended": "Short passages offer immediate perspective without requiring heavy reading.",
+            "effort": "low",
+            "url": "https://www.haeminsunim.com/",
+            "verificationSource": "https://www.haeminsunim.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "mindfulness",
+              "zen",
+              "perspective"
+            ]
+          },
+          {
+            "id": "stressed-books-4",
+            "type": "books",
+            "title": "Wherever You Go, There You Are",
+            "author": "Jon Kabat-Zinn",
+            "description": "Short meditations on bringing mindfulness into daily busy routines.",
+            "whyRecommended": "Provides bite-sized entry points to mindfulness for busy schedules.",
+            "effort": "low",
+            "url": "https://www.mindfulnesscds.com/",
+            "verificationSource": "https://www.mindfulnesscds.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "meditation",
+              "daily",
+              "calm"
+            ]
+          }
+        ],
+        "music": [
+          {
+            "id": "stressed-music-1",
+            "type": "music",
+            "title": "Study Music Alpha Waves: Focus & Calming Soundscape",
+            "description": "A soothing soundscape with steady frequencies and subtle piano tones.",
+            "whyRecommended": "Rain soundscapes help mask harsh background noises and lower mental chatter.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Yellow Brick Cinema)",
+            "url": "https://www.youtube.com/watch?v=WPni755-Krg",
+            "verificationSource": "https://www.youtube.com/watch?v=WPni755-Krg",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "rain",
+              "piano",
+              "nature"
+            ]
+          },
+          {
+            "id": "stressed-music-2",
+            "type": "music",
+            "title": "Lofi Hip Hop Radio - Beats to Sleep/Chill to",
+            "description": "Slow, tranquil beats creating an unhurried background environment.",
+            "whyRecommended": "Natural rhythmic sounds encourage steady, uninterrupted focus.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Lofi Girl)",
+            "url": "https://www.youtube.com/watch?v=DWcJFNfaw9c",
+            "verificationSource": "https://www.youtube.com/watch?v=DWcJFNfaw9c",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "ocean",
+              "waves",
+              "focus"
+            ]
+          },
+          {
+            "id": "stressed-music-3",
+            "type": "music",
+            "title": "Beethoven - Moonlight Sonata (Piano Solo)",
+            "description": "A timeless, meditative piano sonata with a calm and measured rhythm.",
+            "whyRecommended": "Soft drone tones create a consistent audio environment for resting.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+            "verificationSource": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "ambient",
+              "binaural",
+              "waves"
+            ]
+          },
+          {
+            "id": "stressed-music-4",
+            "type": "music",
+            "title": "Four Seasons ~ Vivaldi (Classical Strings)",
+            "description": "A harmonious classical string arrangement offering balanced and structured acoustics.",
+            "whyRecommended": "Light acoustic melodies provide a calming break from digital screens.",
+            "effort": "low",
+            "duration": "8 min",
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=GRxofEmo3HA",
+            "verificationSource": "https://www.youtube.com/watch?v=GRxofEmo3HA",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "harp",
+              "nature",
+              "break"
+            ]
+          }
+        ],
+        "spiritual": [
+          {
+            "id": "stressed-spiritual-1",
+            "type": "spiritual",
+            "title": "Releasing Urgency",
+            "text": "Nature does not hurry, yet everything is accomplished.",
+            "source": "Lao Tzu (Tao Te Ching)",
+            "contentKind": "quote",
+            "description": "A classic Taoist reflection on natural pacing.",
+            "whyRecommended": "Reminds you that rushing rarely improves the quality of your effort.",
+            "effort": "low",
+            "tags": [
+              "nature",
+              "pacing",
+              "taoism"
+            ]
+          },
+          {
+            "id": "stressed-spiritual-2",
+            "type": "spiritual",
+            "title": "The Power of the Present",
+            "text": "Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.",
+            "source": "Eckhart Tolle (The Power of Now)",
+            "contentKind": "quote",
+            "description": "A reminder to anchor your awareness in immediate reality.",
+            "whyRecommended": "Helps cut through future-oriented worry and task paralysis.",
+            "effort": "low",
+            "tags": [
+              "present",
+              "awareness",
+              "now"
+            ]
+          },
+          {
+            "id": "stressed-spiritual-3",
+            "type": "spiritual",
+            "title": "Unburdening the Mind",
+            "text": "You do not need to solve every problem today. Unclench your hands and let this moment be simple.",
+            "source": "MannMitra reflection",
+            "contentKind": "original_reflection",
+            "description": "A gentle prompt to drop non-essential pressure.",
+            "whyRecommended": "Offers a reminder that you do not have to resolve everything at once.",
+            "effort": "low",
+            "tags": [
+              "unburden",
+              "simplicity",
+              "peace"
+            ]
+          },
+          {
+            "id": "stressed-spiritual-4",
+            "type": "spiritual",
+            "title": "Calm Center",
+            "text": "Within you, there is a stillness and a sanctuary to which you can retreat at any time.",
+            "source": "Hermann Hesse (Siddhartha)",
+            "contentKind": "quote",
+            "description": "A literary reflection on inner sanctuary.",
+            "whyRecommended": "Reminds you of an inner space undisturbed by external demands.",
+            "effort": "low",
+            "tags": [
+              "sanctuary",
+              "stillness",
+              "inner-calm"
+            ]
+          }
+        ],
+        "humor": [
+          {
+            "id": "stressed-humor-latent-1",
+            "type": "humor",
+            "title": "Samay Raina | India's Got Latent — Panel Fun & Chaos",
+            "description": "Top panel banter, funny contestant auditions, and Samay's signature quick-witted punchlines.",
+            "whyRecommended": "Pure chaotic humor that forces your brain to relax and let go of daily stress.",
+            "effort": "low",
+            "duration": "20 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=u6wV8Y1sFj0",
+            "verificationSource": "https://www.youtube.com/watch?v=u6wV8Y1sFj0",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "latent",
+              "indias-got-latent",
+              "stress-buster"
+            ]
+          },
+          {
+            "id": "stressed-humor-1",
+            "type": "humor",
+            "title": "Abhishek Upmanyu | Team Meetings & Corporate Work Life",
+            "description": "Abhisheks spot-on, absurdly funny breakdown of endless work meetings, bosses, and burnout.",
+            "whyRecommended": "Venting work stress through sharp, cathartic comedy.",
+            "effort": "low",
+            "duration": "16 min",
+            "source": "YouTube (Abhishek Upmanyu)",
+            "url": "https://www.youtube.com/watch?v=d_k8wX3g_1I",
+            "verificationSource": "https://www.youtube.com/watch?v=d_k8wX3g_1I",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "abhishek-upmanyu",
+              "corporate",
+              "stress-buster",
+              "work"
+            ]
+          },
+          {
+            "id": "stressed-humor-2",
+            "type": "humor",
+            "title": "Anubhav Singh Bassi | The Waxing Experience",
+            "description": "Bassi recounts an excruciatingly funny personal grooming adventure with epic comedic timing.",
+            "whyRecommended": "Side-splitting narrative that completely detaches the mind from daily pressure.",
+            "effort": "low",
+            "duration": "14 min",
+            "source": "YouTube (Anubhav Singh Bassi)",
+            "url": "https://www.youtube.com/watch?v=8uRkX_2gH5M",
+            "verificationSource": "https://www.youtube.com/watch?v=8uRkX_2gH5M",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "bassi",
+              "story",
+              "hilarious",
+              "relaxing"
+            ]
+          },
+          {
+            "id": "stressed-humor-3",
+            "type": "humor",
+            "title": "Samay Raina | Engineering Struggles & Life Choices",
+            "description": "Samays witty reflections on engineering college, parents expectations, and choosing your own path.",
+            "whyRecommended": "Takes the seriousness out of high-pressure milestones.",
+            "effort": "low",
+            "duration": "11 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=z8XyY1qK8eA",
+            "verificationSource": "https://www.youtube.com/watch?v=z8XyY1qK8eA",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "engineering",
+              "relatable",
+              "stress-relief"
+            ]
+          },
+          {
+            "id": "stressed-humor-4",
+            "type": "humor",
+            "title": "Rahul Subramanian | Break Up and MBA",
+            "description": "Rahuls signature deadpan delivery about business school stress and post-college life.",
+            "whyRecommended": "Calm, deadpan punchlines that decompress a cluttered mind.",
+            "effort": "low",
+            "duration": "13 min",
+            "source": "YouTube (Rahul Subramanian)",
+            "url": "https://www.youtube.com/watch?v=1F_4pQ9yA-I",
+            "verificationSource": "https://www.youtube.com/watch?v=1F_4pQ9yA-I",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "rahul-subramanian",
+              "mba",
+              "deadpan",
+              "laugh"
+            ]
+          }
+        ]
+      }
+    },
+    "lonely": {
+      "id": "lonely",
+      "label": "Feeling Lonely",
+      "description": "Reminders of connection and presence.",
+      "startHere": {
+        "title": "A Gentle Presence Pause",
+        "description": "Place your palm over your heart, feel its steady warmth, and remember that you share this atmosphere with millions of quiet souls.",
+        "instruction": "Inhale softly, focusing on the warmth beneath your palm. Exhale gently, sending kindness to yourself.",
+        "duration": "1 minute",
+        "actionType": "connection"
+      },
+      "content": {
+        "yoga": [
+          {
+            "id": "lonely-yoga-1",
+            "type": "yoga",
+            "title": "Day 1 - Ease Into It - Gentle Home Practice",
+            "description": "A gentle 20-minute practice designed to create a sense of comfort, warmth, and self-connection.",
+            "whyRecommended": "Gently guides your focus inward to cultivate self-compassion and connection when feeling isolated.",
+            "effort": "low",
+            "duration": "23 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=oBu-pQG6sTY",
+            "verificationSource": "https://www.youtube.com/watch?v=oBu-pQG6sTY",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "loneliness",
+              "self-compassion",
+              "gentle"
+            ]
+          },
+          {
+            "id": "lonely-yoga-2",
+            "type": "yoga",
+            "title": "15 Min Full Body Stretch & Self-Care Mobility",
+            "description": "A gentle stretch focusing on open chest postures and deep breathing.",
+            "whyRecommended": "Opening chest postures may help ease feelings of physical isolation.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Mady Morrison)",
+            "url": "https://www.youtube.com/watch?v=g_tea8ZNk5A",
+            "verificationSource": "https://www.youtube.com/watch?v=g_tea8ZNk5A",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "heart-opener",
+              "chest",
+              "warmth"
+            ]
+          },
+          {
+            "id": "lonely-yoga-3",
+            "type": "yoga",
+            "title": "10 min Morning Yoga Stretch for Self-Compassion",
+            "description": "A short floor-based practice incorporating comforting stretches.",
+            "whyRecommended": "Provides physical touch feedback to help soothe feelings of solitude.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Yoga with Kassandra)",
+            "url": "https://www.youtube.com/watch?v=T41mYCmtWls",
+            "verificationSource": "https://www.youtube.com/watch?v=T41mYCmtWls",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "self-hug",
+              "floor",
+              "soothing"
+            ]
+          },
+          {
+            "id": "lonely-yoga-4",
+            "type": "yoga",
+            "title": "5-Minute Gentle Morning Yoga Flow",
+            "description": "A slow practice focused on breath, relaxation, and gentle movement.",
+            "whyRecommended": "Offers a comforting space to reconnect with your body.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=4C-gxOE0j7s",
+            "verificationSource": "https://www.youtube.com/watch?v=4C-gxOE0j7s",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "nurture",
+              "slow",
+              "presence"
+            ]
+          }
+        ],
+        "books": [
+          {
+            "id": "lonely-books-1",
+            "type": "books",
+            "title": "Together: The Healing Power of Human Connection",
+            "author": "Vivek H. Murthy",
+            "description": "An insightful exploration of loneliness and community by the US Surgeon General.",
+            "whyRecommended": "Validates feelings of disconnection with compassionate scientific context.",
+            "effort": "medium",
+            "url": "https://www.vivekmurthy.com/together-book",
+            "verificationSource": "https://www.vivekmurthy.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "connection",
+              "community",
+              "insight"
+            ]
+          },
+          {
+            "id": "lonely-books-2",
+            "type": "books",
+            "title": "The Little Prince",
+            "author": "Antoine de Saint-Exupéry",
+            "description": "A poetic tale about friendship, love, and seeing with the heart.",
+            "whyRecommended": "Short and timeless reflections on true connection and companionship.",
+            "effort": "low",
+            "url": "https://www.thelittleprince.com",
+            "verificationSource": "https://www.harpercollins.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "classic",
+              "poetic",
+              "friendship"
+            ]
+          },
+          {
+            "id": "lonely-books-3",
+            "type": "books",
+            "title": "Belonging: Remembering Ourselves Home",
+            "author": "Toko-pa Turner",
+            "description": "An exploration of finding belonging in nature, art, and inner awareness.",
+            "whyRecommended": "Helps reframe loneliness into an invitation to reconnect with yourself.",
+            "effort": "medium",
+            "url": "https://toko-pa.com",
+            "verificationSource": "https://toko-pa.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "belonging",
+              "nature",
+              "home"
+            ]
+          },
+          {
+            "id": "lonely-books-4",
+            "type": "books",
+            "title": "Braving the Wilderness",
+            "author": "Brené Brown",
+            "description": "A guide on true belonging and standing in your authentic self.",
+            "whyRecommended": "Offers courageous encouragement when feeling out of place or disconnected.",
+            "effort": "medium",
+            "url": "https://brenebrown.com/book/braving-the-wilderness/",
+            "verificationSource": "https://brenebrown.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "courage",
+              "belonging",
+              "authenticity"
+            ]
+          }
+        ],
+        "music": [
+          {
+            "id": "lonely-music-1",
+            "type": "music",
+            "title": "Chillhop Radio - Jazzy & Lofi Hip Hop Beats",
+            "description": "Warm jazz-infused beats providing pleasant ambient companionship.",
+            "whyRecommended": "Simulates a cozy social background to provide ambient companionship.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Chillhop Music)",
+            "url": "https://www.youtube.com/watch?v=5yx6BWlEVcY",
+            "verificationSource": "https://www.youtube.com/watch?v=5yx6BWlEVcY",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "cafe",
+              "acoustic",
+              "ambience"
+            ]
+          },
+          {
+            "id": "lonely-music-2",
+            "type": "music",
+            "title": "Bobby McFerrin - Don't Worry Be Happy",
+            "description": "An entirely vocal, playful classic track full of uplifting warmth.",
+            "whyRecommended": "Brings a sense of warmth and quiet comfort to a solitary evening.",
+            "effort": "low",
+            "duration": "12 min",
+            "source": "YouTube (BobbyMcFerrinVEVO)",
+            "url": "https://www.youtube.com/watch?v=d-diB65scQU",
+            "verificationSource": "https://www.youtube.com/watch?v=d-diB65scQU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "piano",
+              "fireplace",
+              "cozy"
+            ]
+          },
+          {
+            "id": "lonely-music-3",
+            "type": "music",
+            "title": "Coldplay - Fix You (Official Video)",
+            "description": "A gentle acoustic piano interpretation of a reassuring anthem.",
+            "whyRecommended": "Familiar melodic themes can offer an emotional sense of connection.",
+            "effort": "low",
+            "duration": "5 min",
+            "source": "YouTube (Coldplay)",
+            "url": "https://www.youtube.com/watch?v=k4V3Mo61fJM",
+            "verificationSource": "https://www.youtube.com/watch?v=k4V3Mo61fJM",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "piano",
+              "acoustic",
+              "reassuring"
+            ]
+          },
+          {
+            "id": "lonely-music-4",
+            "type": "music",
+            "title": "Pharrell Williams - Happy (Official Video)",
+            "description": "An energetic soul-pop anthem with contagious handclaps and positive vibes.",
+            "whyRecommended": "Soft nighttime beats provide calm company during solitary hours.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (PharrellWilliamsVEVO)",
+            "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+            "verificationSource": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "lofi",
+              "night",
+              "chill"
+            ]
+          }
+        ],
+        "spiritual": [
+          {
+            "id": "lonely-spiritual-1",
+            "type": "spiritual",
+            "title": "Shared Humanity",
+            "text": "If you look deeply into the palm of your hand, you will see your parents and all generations of your ancestors.",
+            "source": "Thich Nhat Hanh (No Death, No Fear)",
+            "contentKind": "quote",
+            "description": "A deep reflection on your interconnectedness with lineage and life.",
+            "whyRecommended": "Reminds you that you carry the history and presence of life within you.",
+            "effort": "low",
+            "tags": [
+              "interconnection",
+              "ancestors",
+              "presence"
+            ]
+          },
+          {
+            "id": "lonely-spiritual-2",
+            "type": "spiritual",
+            "title": "The Beauty of Solitude",
+            "text": "Language has created the word 'loneliness' to express the pain of being alone. And it has created the word 'solitude' to express the glory of being alone.",
+            "source": "Paul Tillich (The Eternal Now)",
+            "contentKind": "quote",
+            "description": "A philosophical distinction between painful isolation and peaceful solitude.",
+            "whyRecommended": "Reframes being alone into a space of quiet personal dignity.",
+            "effort": "low",
+            "tags": [
+              "solitude",
+              "perspective",
+              "peace"
+            ]
+          },
+          {
+            "id": "lonely-spiritual-3",
+            "type": "spiritual",
+            "title": "Shared Sky",
+            "text": "You are looking at the exact same moon and stars as millions of gentle souls around the world right now.",
+            "source": "MannMitra reflection",
+            "contentKind": "original_reflection",
+            "description": "A reassuring thought on quiet, unspoken global connection.",
+            "whyRecommended": "Offers a gentle sense of connection under the shared night sky.",
+            "effort": "low",
+            "tags": [
+              "sky",
+              "moon",
+              "connection"
+            ]
+          },
+          {
+            "id": "lonely-spiritual-4",
+            "type": "spiritual",
+            "title": "Belonging to the World",
+            "text": "Whoever you are, no matter how lonely, the world offers itself to your imagination.",
+            "source": "Mary Oliver (Wild Geese)",
+            "contentKind": "quote",
+            "description": "A poetic invitation to remember your natural place in the world.",
+            "whyRecommended": "Reassures you of your inherent place in the natural tapestry of life.",
+            "effort": "low",
+            "tags": [
+              "poetry",
+              "nature",
+              "belonging"
+            ]
+          }
+        ],
+        "humor": [
+          {
+            "id": "lonely-humor-1",
+            "type": "humor",
+            "title": "Zakir Khan | Dosti, Shehar aur Yaar (Friendship in Big Cities)",
+            "description": "Zakir talks about adjusting to a new city, roommates, and the warmth of real friendship.",
+            "whyRecommended": "Heartwarming, relatable storytelling that makes you feel among close friends.",
+            "effort": "low",
+            "duration": "17 min",
+            "source": "YouTube (Zakir Khan)",
+            "url": "https://www.youtube.com/watch?v=7uJ_bQ8gP2A",
+            "verificationSource": "https://www.youtube.com/watch?v=7uJ_bQ8gP2A",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "zakir-khan",
+              "friendship",
+              "comfort",
+              "companionship"
+            ]
+          },
+          {
+            "id": "lonely-humor-2",
+            "type": "humor",
+            "title": "Munawar Faruqui | Making Friends & Society Nuances",
+            "description": "Munawars funny and touching observations on finding connections and neighborhood stories.",
+            "whyRecommended": "Relatable humor that creates a sense of shared belonging.",
+            "effort": "low",
+            "duration": "13 min",
+            "source": "YouTube (Munawar Faruqui)",
+            "url": "https://www.youtube.com/watch?v=vK9pL_7jX3U",
+            "verificationSource": "https://www.youtube.com/watch?v=vK9pL_7jX3U",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "munawar",
+              "friends",
+              "society",
+              "warmth"
+            ]
+          },
+          {
+            "id": "lonely-humor-3",
+            "type": "humor",
+            "title": "Abhishek Upmanyu | Living Alone & Roommate Quirks",
+            "description": "A hilarious look at bachelor pads, quirky roommates, and navigating independent living.",
+            "whyRecommended": "Comforting camaraderie that brings genuine belly laughs to a quiet room.",
+            "effort": "low",
+            "duration": "14 min",
+            "source": "YouTube (Abhishek Upmanyu)",
+            "url": "https://www.youtube.com/watch?v=8wK9_1Xj5_I",
+            "verificationSource": "https://www.youtube.com/watch?v=8wK9_1Xj5_I",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "abhishek-upmanyu",
+              "roommates",
+              "bachelor-life",
+              "fun"
+            ]
+          },
+          {
+            "id": "lonely-humor-4",
+            "type": "humor",
+            "title": "Samay Raina | Late Night Banter & Streaming Moments",
+            "description": "Samay Raina hanging out with friends, roasting, and sharing unfiltered wholesome jokes.",
+            "whyRecommended": "Feels like sitting on the sofa with a group of funny friends.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=4yB8_jKq1lE",
+            "verificationSource": "https://www.youtube.com/watch?v=4yB8_jKq1lE",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "friends",
+              "banter",
+              "cozy"
+            ]
+          }
+        ]
+      }
+    },
+    "wants_humor": {
+      "id": "wants_humor",
+      "label": "Want to Laugh",
+      "description": "Lighthearted moments to lift your spirits.",
+      "startHere": {
+        "title": "A Lighthearted Smile Pause",
+        "description": "Soften your eyes, let out a gentle sigh, and imagine your favorite silly memory.",
+        "instruction": "Take a deep breath in, stretch your shoulders up, and drop them with a soft giggle as you exhale.",
+        "duration": "1 minute",
+        "actionType": "smile"
+      },
+      "content": {
+        "yoga": [
+          {
+            "id": "wants_humor-yoga-1",
+            "type": "yoga",
+            "title": "Stretches for Neck & Upper Back Relaxation",
+            "description": "A dynamic practice designed to build lighthearted energy and physical ease.",
+            "whyRecommended": "A dynamic and cheerful movement sequence to uplift your mood and bring a genuine smile.",
+            "effort": "low",
+            "duration": "20 min",
+            "source": "YouTube (Mady Morrison)",
+            "url": "https://www.youtube.com/watch?v=s-7lyvblFNI",
+            "verificationSource": "https://www.youtube.com/watch?v=s-7lyvblFNI",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "joyful",
+              "vinyasa",
+              "upbeat"
+            ]
+          },
+          {
+            "id": "wants_humor-yoga-2",
+            "type": "yoga",
+            "title": "Office Break Yoga | 14-Minute Yoga Practice",
+            "description": "A brisk morning sequence that pairs dynamic breath with energizing postures.",
+            "whyRecommended": "Quick physical awakening to boost enthusiasm and complement a cheerful mood.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=M-8FvC3GD8c",
+            "verificationSource": "https://www.youtube.com/watch?v=M-8FvC3GD8c",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "energy",
+              "quick",
+              "playful"
+            ]
+          },
+          {
+            "id": "wants_humor-yoga-3",
+            "type": "yoga",
+            "title": "Yoga For Teens & Energetic Beginners",
+            "description": "A light, playful routine focusing on fun transitions and balance.",
+            "whyRecommended": "A brief, fun physical break to shake off sluggishness and spark playful energy.",
+            "effort": "low",
+            "duration": "7 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=7kgZnJqzNaU",
+            "verificationSource": "https://www.youtube.com/watch?v=7kgZnJqzNaU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "quickie",
+              "boost",
+              "fun"
+            ]
+          },
+          {
+            "id": "wants_humor-yoga-4",
+            "type": "yoga",
+            "title": "30-Minute Yoga For Beginners | Start Yoga Here",
+            "description": "A bright and cheerful flow to celebrate vitality and good spirits.",
+            "whyRecommended": "Invigorating stretches to cultivate a lighthearted, positive physical tone.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=AB3Y-4a3ZrU",
+            "verificationSource": "https://www.youtube.com/watch?v=AB3Y-4a3ZrU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "sunrise",
+              "morning",
+              "refreshed"
+            ]
+          }
+        ],
+        "books": [
+          {
+            "id": "wants_humor-books-1",
+            "type": "books",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "description": "A legendary sci-fi comedy novel full of absurd galactic humor.",
+            "whyRecommended": "Witty British humor that provides pure lighthearted entertainment.",
+            "effort": "low",
+            "url": "https://www.panmacmillan.com/authors/douglas-adams/the-hitchhiker-s-guide-to-the-galaxy",
+            "verificationSource": "https://www.panmacmillan.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "sci-fi",
+              "comedy",
+              "absurd"
+            ]
+          },
+          {
+            "id": "wants_humor-books-2",
+            "type": "books",
+            "title": "Hyperbole and a Half",
+            "author": "Allie Brosh",
+            "description": "Hilarious webcomic essays about childhood mishaps and daily life.",
+            "whyRecommended": "Comical illustrations and honest humor that make you laugh out loud.",
+            "effort": "low",
+            "url": "https://hyperboleandahalf.blogspot.com/",
+            "verificationSource": "https://hyperboleandahalf.blogspot.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "webcomic",
+              "humor",
+              "illustrated"
+            ]
+          },
+          {
+            "id": "wants_humor-books-3",
+            "type": "books",
+            "title": "The Code of the Woosters",
+            "author": "P.G. Wodehouse",
+            "description": "A classic Jeeves and Wooster comedy full of mistaken identities and sharp wit.",
+            "whyRecommended": "Light, elegant humor that never fails to lift your spirits.",
+            "effort": "low",
+            "url": "https://www.penguin.co.uk",
+            "verificationSource": "https://www.wodehouse.org",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "classic",
+              "wit",
+              "jeeves"
+            ]
+          },
+          {
+            "id": "wants_humor-books-4",
+            "type": "books",
+            "title": "Good Omens",
+            "author": "Neil Gaiman & Terry Pratchett",
+            "description": "A witty comedic fantasy about an angel and a demon teaming up.",
+            "whyRecommended": "Brilliant collaborative humor full of clever character banter.",
+            "effort": "medium",
+            "url": "https://www.neilgaiman.com/works/books/goodomens/",
+            "verificationSource": "https://www.neilgaiman.com",
+            "lastVerified": "2026-08-21",
+            "tags": [
+              "fantasy",
+              "comedy",
+              "banter"
+            ]
+          }
+        ],
+        "music": [
+          {
+            "id": "wants_humor-music-1",
+            "type": "music",
+            "title": "Always: Beautiful & Relaxing Piano Melody",
+            "description": "Bright acoustic piano sounds that create an instant sunny mood.",
+            "whyRecommended": "Bright acoustic sounds that create an instant sunny mood.",
+            "effort": "low",
+            "duration": "5 min",
+            "source": "YouTube (Soothing Relaxation)",
+            "url": "https://www.youtube.com/watch?v=9Q634rbsypE",
+            "verificationSource": "https://www.youtube.com/watch?v=9Q634rbsypE",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "ukulele",
+              "upbeat",
+              "sunny"
+            ]
+          },
+          {
+            "id": "wants_humor-music-2",
+            "type": "music",
+            "title": "Fireplace Ambience – Cozy Warmth for Relaxation",
+            "description": "Warm fireplace tones with gentle acoustic textures.",
+            "whyRecommended": "Playful vocal arrangements that encourage smiling and tapping along.",
+            "effort": "low",
+            "duration": "4 min",
+            "source": "YouTube (Fireplace Atmosphere)",
+            "url": "https://www.youtube.com/watch?v=L_LUpnjgPso",
+            "verificationSource": "https://www.youtube.com/watch?v=L_LUpnjgPso",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "acapella",
+              "classic",
+              "playful"
+            ]
+          },
+          {
+            "id": "wants_humor-music-3",
+            "type": "music",
+            "title": "Queen – Bohemian Rhapsody (Official Classic)",
+            "description": "An iconic operatic rock masterpiece full of theatrical vocal shifts.",
+            "whyRecommended": "High-energy rhythm to celebrate cheerful moments.",
+            "effort": "low",
+            "duration": "4 min",
+            "source": "YouTube (Queen Official)",
+            "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+            "verificationSource": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "pop",
+              "upbeat",
+              "energy"
+            ]
+          },
+          {
+            "id": "wants_humor-music-4",
+            "type": "music",
+            "title": "Taylor Swift - Blank Space (Pop Melody)",
+            "description": "A lively pop arrangement that encourages tapping along.",
+            "whyRecommended": "Cheerful jazz grooves that bring lively background rhythm.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (Taylor Swift)",
+            "url": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
+            "verificationSource": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "jazz",
+              "sunny",
+              "swing"
+            ]
+          }
+        ],
+        "spiritual": [
+          {
+            "id": "wants_humor-spiritual-1",
+            "type": "spiritual",
+            "title": "The Wisdom of Laughter",
+            "text": "A good laugh heals a lot of hurts.",
+            "source": "Traditional Proverb",
+            "contentKind": "quote",
+            "description": "A classic folk reflection on the refreshing quality of humor.",
+            "whyRecommended": "Reminds you of laughter's simple restoring quality.",
+            "effort": "low",
+            "tags": [
+              "proverb",
+              "laughter",
+              "wisdom"
+            ]
+          },
+          {
+            "id": "wants_humor-spiritual-2",
+            "type": "spiritual",
+            "title": "Lightness of Being",
+            "text": "Angels can fly because they take themselves lightly.",
+            "source": "G.K. Chesterton (Orthodoxy)",
+            "contentKind": "quote",
+            "description": "A memorable literary quote on taking life with a light heart.",
+            "whyRecommended": "Encourages shedding self-importance in favor of playful lightheartedness.",
+            "effort": "low",
+            "tags": [
+              "lightness",
+              "playful",
+              "wisdom"
+            ]
+          },
+          {
+            "id": "wants_humor-spiritual-3",
+            "type": "spiritual",
+            "title": "Joyful Presence",
+            "text": "Joy is not in things; it is in us. A simple chuckle opens a window for light to enter.",
+            "source": "MannMitra reflection",
+            "contentKind": "original_reflection",
+            "description": "A reflection on finding spontaneous joy within.",
+            "whyRecommended": "Celebrates the sudden brightness of a genuine chuckle.",
+            "effort": "low",
+            "tags": [
+              "joy",
+              "smile",
+              "light"
+            ]
+          },
+          {
+            "id": "wants_humor-spiritual-4",
+            "type": "spiritual",
+            "title": "The Sacred Smile",
+            "text": "Peace begins with a smile.",
+            "source": "Mother Teresa",
+            "contentKind": "quote",
+            "description": "A simple, timeless reflection on the power of a smile.",
+            "whyRecommended": "Connects quiet joy with peaceful daily presence.",
+            "effort": "low",
+            "tags": [
+              "smile",
+              "peace",
+              "simplicity"
+            ]
+          }
+        ],
+        "humor": [
+          {
+            "id": "wants_humor-humor-latent-1",
+            "type": "humor",
+            "title": "Samay Raina | India's Got Latent (Best Moments & Hilarious Acts)",
+            "description": "Samay Raina hosts India's Got Latent with unfiltered comedy, hilarious panel roasts, and wild contestant performances.",
+            "whyRecommended": "Unfiltered, belly-aching laughter that instantly snaps you out of a dull or gloomy mood.",
+            "effort": "low",
+            "duration": "25 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=kYJ08PqD0wI",
+            "verificationSource": "https://www.youtube.com/watch?v=kYJ08PqD0wI",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "indias-got-latent",
+              "latent",
+              "roast",
+              "viral"
+            ]
+          },
+          {
+            "id": "wants_humor-humor-1",
+            "type": "humor",
+            "title": "Anubhav Singh Bassi | Roommate & Hostel Life",
+            "description": "Bassis viral, universally loved masterpiece on hostel life, roommates, and unexpected chaos.",
+            "whyRecommended": "Continuous, belly-aching laughter that guarantees an instant mood boost.",
+            "effort": "low",
+            "duration": "20 min",
+            "source": "YouTube (Anubhav Singh Bassi)",
+            "url": "https://www.youtube.com/watch?v=q84cw_yvA4A",
+            "verificationSource": "https://www.youtube.com/watch?v=q84cw_yvA4A",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "bassi",
+              "roommate",
+              "hostel",
+              "blockbuster"
+            ]
+          },
+          {
+            "id": "wants_humor-humor-2",
+            "type": "humor",
+            "title": "Zakir Khan | When I Met A Delhi Girl",
+            "description": "Zakirs classic standup special exploring modern dating, cultural quirks, and self-deprecating wit.",
+            "whyRecommended": "Unmatched charm and storytelling that leaves you smiling for hours.",
+            "effort": "low",
+            "duration": "12 min",
+            "source": "YouTube (Zakir Khan)",
+            "url": "https://www.youtube.com/watch?v=dtaJzUbQS7E",
+            "verificationSource": "https://www.youtube.com/watch?v=dtaJzUbQS7E",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "zakir-khan",
+              "sakht-launda",
+              "romance",
+              "comedy-gold"
+            ]
+          },
+          {
+            "id": "wants_humor-humor-3",
+            "type": "humor",
+            "title": "Samay Raina | Printout & School Chaos",
+            "description": "Samay Raina recounts an epic childhood tale about school projects, stationery shops, and excuses.",
+            "whyRecommended": "High-octane, relatable Indian childhood nostalgia packed with punchlines.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=J38ZBIvLank",
+            "verificationSource": "https://www.youtube.com/watch?v=J38ZBIvLank",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "printout",
+              "school",
+              "hilarious"
+            ]
+          },
+          {
+            "id": "wants_humor-humor-4",
+            "type": "humor",
+            "title": "Munawar Faruqui | Ghost Stories & Childhood Myths",
+            "description": "Munawars hilarious narrative on childhood ghost legends, dark rooms, and cousin gossip.",
+            "whyRecommended": "Playful, lighthearted comedy with brilliant punchline timing.",
+            "effort": "low",
+            "duration": "14 min",
+            "source": "YouTube (Munawar Faruqui)",
+            "url": "https://www.youtube.com/watch?v=cHLM9L_5H1E",
+            "verificationSource": "https://www.youtube.com/watch?v=cHLM9L_5H1E",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "munawar",
+              "ghost-stories",
+              "childhood",
+              "fun"
+            ]
+          },
+          {
+            "id": "wants_humor-humor-5",
+            "type": "humor",
+            "title": "Abhishek Upmanyu | Friends, Crime & The Cosmos",
+            "description": "Abhisheks high-speed, iconic routine covering overthinking, wild conspiracy theories, and friends.",
+            "whyRecommended": "Electrifying, non-stop comedy that delivers maximum laughs.",
+            "effort": "low",
+            "duration": "17 min",
+            "source": "YouTube (Abhishek Upmanyu)",
+            "url": "https://www.youtube.com/watch?v=sIl8vsT_A3o",
+            "verificationSource": "https://www.youtube.com/watch?v=sIl8vsT_A3o",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "abhishek-upmanyu",
+              "cosmos",
+              "friends",
+              "top-rated"
+            ]
+          }
+        ]
+      }
+    },
+    "depressed": {
+      "id": "depressed",
+      "label": "Feeling Depressed",
+      "description": "Gentle, zero-pressure space for when everything feels heavy and getting through today takes everything.",
+      "startHere": {
+        "title": "Lie Down & Let Go",
+        "description": "You do not have to fix or accomplish anything right now. Just rest your body.",
+        "instruction": "Close your eyes, unclench your jaw, and let your full weight sink into the bed or chair. Take 3 long, effortless sighs.",
+        "duration": "2 min",
+        "actionType": "rest"
+      },
+      "content": {
+        "yoga": [
+          {
+            "id": "depressed-yoga-1",
+            "type": "yoga",
+            "title": "Yoga for Depression & Low Energy (Gentle Practice)",
+            "description": "A slow, compassionate 15-minute floor practice designed for days when energy is extremely low.",
+            "whyRecommended": "Gentle somatic floor postures that gently soothe the nervous system with zero pressure.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Yoga With Adriene)",
+            "url": "https://www.youtube.com/watch?v=rb7Z27GzyuY",
+            "verificationSource": "https://www.youtube.com/watch?v=rb7Z27GzyuY",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "gentle",
+              "depression",
+              "floor-only",
+              "soothing"
+            ]
+          },
+          {
+            "id": "depressed-yoga-2",
+            "type": "yoga",
+            "title": "10 Min Bed Yoga & Restorative Body Release",
+            "description": "You do not even need to get out of bed. Soft movements to release heaviness from shoulders and back.",
+            "whyRecommended": "Ultra-low effort stretches that meet you exactly where you are.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube (SarahBethYoga)",
+            "url": "https://www.youtube.com/watch?v=VaoV1PrYft4",
+            "verificationSource": "https://www.youtube.com/watch?v=VaoV1PrYft4",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "in-bed",
+              "low-energy",
+              "restorative",
+              "calm"
+            ]
+          },
+          {
+            "id": "depressed-yoga-3",
+            "type": "yoga",
+            "title": "Legs Up the Wall (Viparita Karani) for Deep Restoration",
+            "description": "A deeply nourishing restorative posture that encourages circulation and calms feelings of emotional exhaustion.",
+            "whyRecommended": "Effortless passive inversion that relieves physical heaviness.",
+            "effort": "low",
+            "duration": "10 min",
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=r7v5M5p4m6E",
+            "verificationSource": "https://www.youtube.com/watch?v=r7v5M5p4m6E",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "restorative",
+              "nervous-system",
+              "legs-up-wall"
+            ]
+          }
+        ],
+        "books": [
+          {
+            "id": "depressed-books-1",
+            "type": "books",
+            "title": "Reasons to Stay Alive",
+            "author": "Matt Haig",
+            "description": "A moving, accessible, and heartfelt account of surviving severe depression and finding hope in small things.",
+            "whyRecommended": "Short, compassionate chapters written by someone who truly understands the darkness.",
+            "effort": "low",
+            "duration": "Short chapters",
+            "source": "Book",
+            "url": "https://www.goodreads.com/book/show/25733573-reasons-to-stay-alive",
+            "verificationSource": "https://www.goodreads.com/book/show/25733573-reasons-to-stay-alive",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "depression",
+              "hope",
+              "memoir",
+              "comfort"
+            ]
+          },
+          {
+            "id": "depressed-books-2",
+            "type": "books",
+            "title": "The Upward Spiral",
+            "author": "Alex Korb, PhD",
+            "description": "A neuroscientist explains practical, tiny micro-shifts that alter brain chemistry when you feel stuck in depression.",
+            "whyRecommended": "Demystifies depression scientifically without judgment or toxic positivity.",
+            "effort": "medium",
+            "duration": "Practical guide",
+            "source": "Book",
+            "url": "https://www.goodreads.com/book/show/21413782-the-upward-spiral",
+            "verificationSource": "https://www.goodreads.com/book/show/21413782-the-upward-spiral",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "neuroscience",
+              "practical",
+              "micro-habits"
+            ]
+          },
+          {
+            "id": "depressed-books-3",
+            "type": "books",
+            "title": "Tiny Beautiful Things",
+            "author": "Cheryl Strayed",
+            "description": "A collection of radical empathy, tender wisdom, and deeply human letters answering questions about grief and sorrow.",
+            "whyRecommended": "Deeply comforting words that make you feel less alone in your struggles.",
+            "effort": "low",
+            "duration": "Anthology",
+            "source": "Book",
+            "url": "https://www.goodreads.com/book/show/13152194-tiny-beautiful-things",
+            "verificationSource": "https://www.goodreads.com/book/show/13152194-tiny-beautiful-things",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "empathy",
+              "healing",
+              "comfort"
+            ]
+          }
+        ],
+        "music": [
+          {
+            "id": "depressed-music-1",
+            "type": "music",
+            "title": "Weightless — Ambient Deep Calm",
+            "description": "Scientifically designed ambient track with slowing tempos to gently downregulate nervous tension.",
+            "whyRecommended": "Gentle, zero-demanding ambient soundscape for quiet rest.",
+            "effort": "low",
+            "duration": "8 min",
+            "source": "YouTube (Marconi Union)",
+            "url": "https://www.youtube.com/watch?v=UfcAVejslrU",
+            "verificationSource": "https://www.youtube.com/watch?v=UfcAVejslrU",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "ambient",
+              "healing",
+              "slow-tempo"
+            ]
+          },
+          {
+            "id": "depressed-music-2",
+            "type": "music",
+            "title": "Gentle Lofi Beats to Soothe a Heavy Mind",
+            "description": "Soft, steady lo-fi melodies providing comforting background company in a quiet room.",
+            "whyRecommended": "Warm, unobtrusive sound that fills the silence kindly.",
+            "effort": "low",
+            "duration": "Continuous",
+            "source": "YouTube (Lofi Girl)",
+            "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+            "verificationSource": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "lofi",
+              "warmth",
+              "comfort"
+            ]
+          },
+          {
+            "id": "depressed-music-3",
+            "type": "music",
+            "title": "Soft Rain on Window with Warm Piano",
+            "description": "Peaceful acoustic piano chords blended with gentle natural rainfall sounds.",
+            "whyRecommended": "Natural rainfall sounds have an innate calming rhythm for tired minds.",
+            "effort": "low",
+            "duration": "30 min",
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=2OEL4P1Rz04",
+            "verificationSource": "https://www.youtube.com/watch?v=2OEL4P1Rz04",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "rain",
+              "piano",
+              "relaxing"
+            ]
+          }
+        ],
+        "spiritual": [
+          {
+            "id": "depressed-spiritual-1",
+            "type": "spiritual",
+            "text": "The dark night of the soul always precedes the dawn. You do not have to shine today; simply being here is enough.",
+            "source": "Spiritual Wisdom",
+            "contentKind": "Quote",
+            "whyRecommended": "Relieves the heavy pressure to feel happy or productive.",
+            "effort": "low",
+            "duration": "1 min",
+            "tags": [
+              "hope",
+              "gentleness",
+              "patience"
+            ]
+          },
+          {
+            "id": "depressed-spiritual-2",
+            "type": "spiritual",
+            "text": "Ring the bells that still can ring. Forget your perfect offering. There is a crack in everything, that is how the light gets in.",
+            "source": "Leonard Cohen (Anthem)",
+            "contentKind": "Poetry",
+            "whyRecommended": "A tender reminder that imperfection and vulnerability are where healing begins.",
+            "effort": "low",
+            "duration": "1 min",
+            "tags": [
+              "poetry",
+              "light",
+              "resilience"
+            ]
+          },
+          {
+            "id": "depressed-spiritual-3",
+            "type": "spiritual",
+            "text": "Be patient with yourself. Nothing in nature blooms all year around. Allow yourself this season of resting and rooting.",
+            "source": "Mindful Reflections",
+            "contentKind": "Reflection",
+            "whyRecommended": "Normalizes seasons of low energy and quiet rest.",
+            "effort": "low",
+            "duration": "1 min",
+            "tags": [
+              "nature",
+              "patience",
+              "self-compassion"
+            ]
+          }
+        ],
+        "humor": [
+          {
+            "id": "depressed-humor-1",
+            "type": "humor",
+            "title": "Samay Raina | India's Got Latent (Best Moments & Hilarious Acts)",
+            "description": "Samay Raina hosts India's Got Latent with unfiltered comedy, hilarious panel roasts, and wild contestant performances.",
+            "whyRecommended": "Unfiltered, belly-aching laughter that provides an easy, gentle distraction.",
+            "effort": "low",
+            "duration": "25 min",
+            "source": "YouTube (Samay Raina)",
+            "url": "https://www.youtube.com/watch?v=kYJ08PqD0wI",
+            "verificationSource": "https://www.youtube.com/watch?v=kYJ08PqD0wI",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "samay-raina",
+              "indias-got-latent",
+              "latent",
+              "viral"
+            ]
+          },
+          {
+            "id": "depressed-humor-2",
+            "type": "humor",
+            "title": "Zakir Khan | Haq Se Single — Bus Safar & Small Joys",
+            "description": "Zakir's iconic bit on finding humor and self-worth in life's simple, awkward moments.",
+            "whyRecommended": "Deeply comforting humor that reminds you that you are enough.",
+            "effort": "low",
+            "duration": "15 min",
+            "source": "YouTube (Zakir Khan)",
+            "url": "https://www.youtube.com/watch?v=2r1o5bNqQeo",
+            "verificationSource": "https://www.youtube.com/watch?v=2r1o5bNqQeo",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "zakir-khan",
+              "haq-se-single",
+              "comforting",
+              "relatable"
+            ]
+          },
+          {
+            "id": "depressed-humor-3",
+            "type": "humor",
+            "title": "Anubhav Singh Bassi | Cheating & College Days",
+            "description": "Bassi's legendary, heartwarming storytelling about college friendships, exams, and mischief.",
+            "whyRecommended": "Infectious storytelling and pure warmth to lift heavy spirits.",
+            "effort": "low",
+            "duration": "18 min",
+            "source": "YouTube (Anubhav Singh Bassi)",
+            "url": "https://www.youtube.com/watch?v=FF_zB_0-B1Y",
+            "verificationSource": "https://www.youtube.com/watch?v=FF_zB_0-B1Y",
+            "lastVerified": "2026-08-23",
+            "tags": [
+              "bassi",
+              "college",
+              "storytelling",
+              "uplifting"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
