@@ -8,25 +8,25 @@ const TRACKS = [
     name: 'Minecraft Rain',
     artist: 'Relaxing Ambience',
     emoji: '🌧️',
-    url: '/music-rain.mp3',
+    url: 'https://cdn.pixabay.com/download/audio/2022/05/16/audio_db6591201e.mp3',
     color: '#5B8C6C',
     gradient: 'linear-gradient(135deg, #5B8C6C, #2E8C9A)',
   },
   {
     id: 'relaxing',
-    name: 'Slow & Relaxing',
-    artist: 'No Copyright Music',
-    emoji: '🎵',
-    url: '/music-relaxing.mp3',
+    name: 'Forest & Nature',
+    artist: 'Calm Birds & Breeze',
+    emoji: '🍃',
+    url: 'https://assets.mixkit.co/active_storage/sfx/1253/1253-preview.mp3',
     color: '#B08A2E',
     gradient: 'linear-gradient(135deg, #B08A2E, #C2685A)',
   },
   {
     id: 'moog',
-    name: 'Moog City 2',
-    artist: 'C418 · Minecraft OST',
+    name: 'Ambient Melodic Synth',
+    artist: 'Chillout & Meditation',
     emoji: '🎹',
-    url: '/music-moog-city.mp3',
+    url: 'https://raw.githubusercontent.com/mdn/webaudio-examples/main/audio-basics/outfoxing.mp3',
     color: '#5B5A8C',
     gradient: 'linear-gradient(135deg, #5B5A8C, #2E8C9A)',
   },
@@ -35,9 +35,8 @@ const TRACKS = [
 // Rotating Vinyl Record Component for the floating corner button
 const VinylDisc = ({ isPlaying, emoji, color }: { isPlaying: boolean; emoji: string; color: string }) => (
   <div
-    className={`relative w-10 h-10 rounded-full flex items-center justify-center ${
-      isPlaying ? 'animate-[spin_4s_linear_infinite]' : ''
-    }`}
+    className={`relative w-10 h-10 rounded-full flex items-center justify-center ${isPlaying ? 'animate-[spin_4s_linear_infinite]' : ''
+      }`}
     style={{
       background: 'radial-gradient(circle, #2A2A2A 0%, #151515 60%, #080808 100%)',
       boxShadow: '0 2px 8px rgba(0,0,0,0.5)',
@@ -99,7 +98,7 @@ export const MusicPlayer = () => {
     audio
       .play()
       .then(() => setIsPlaying(true))
-      .catch(() => {});
+      .catch(() => { });
   }, [volume]);
 
   // 1. Click-outside handler to close music box
@@ -135,7 +134,7 @@ export const MusicPlayer = () => {
           setIsPlaying(true);
           cleanupListeners();
         })
-        .catch(() => {});
+        .catch(() => { });
     };
 
     const cleanupListeners = () => {
