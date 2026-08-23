@@ -1,0 +1,50 @@
+{
+  "title": "Need Immediate Support?",
+  "disclaimer": "MannMitra is a peer-support tool and not a replacement for professional medical or psychiatric care. If you are in immediate danger or experiencing a crisis, please contact local emergency services or an official helpline below.",
+  "resources": [
+    {
+      "id": "emergency-112",
+      "name": "National Emergency Number",
+      "contact": "112",
+      "type": "emergency",
+      "availability": "24/7",
+      "description": "Unified Emergency Response Support System (ERSS) in India integrating Police, Fire, and Ambulance services.",
+      "officialUrl": "https://112.gov.in",
+      "verificationSource": "https://112.gov.in",
+      "lastVerified": "2026-08-21"
+    },
+    {
+      "id": "tele-manas",
+      "name": "Tele-MANAS (Govt of India)",
+      "contact": "14416 / 1800-891-4416",
+      "type": "helpline",
+      "availability": "24/7",
+      "description": "National Tele Mental Health Programme of India providing free, confidential multi-lingual counseling and tele-psychiatry support.",
+      "officialUrl": "https://telemanas.mohfw.gov.in",
+      "verificationSource": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1866442",
+      "lastVerified": "2026-08-21"
+    },
+    {
+      "id": "vandrevala-foundation",
+      "name": "Vandrevala Foundation Helpline",
+      "contact": "+91 9999 666 555",
+      "type": "helpline",
+      "availability": "24/7",
+      "description": "Provides mental health support and crisis intervention services in India.",
+      "officialUrl": "https://www.vandrevalafoundation.com",
+      "verificationSource": "https://www.vandrevalafoundation.com",
+      "lastVerified": "2026-08-21"
+    },
+    {
+      "id": "icall-helpline",
+      "name": "iCALL Psychosocial Helpline (TISS)",
+      "contact": "022-25521111",
+      "type": "helpline",
+      "availability": "Mon-Sat: 8:00 AM - 10:00 PM IST",
+      "description": "Psychosocial support service associated with TISS.",
+      "officialUrl": "https://icallhelpline.org",
+      "verificationSource": "https://tiss.edu/view/6/projects/all-projects/icall-psychosocial-helpline/",
+      "lastVerified": "2026-08-21"
+    }
+  ]
+}
